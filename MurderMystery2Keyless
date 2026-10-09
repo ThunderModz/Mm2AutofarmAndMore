@@ -1,2 +1,2 @@
 RUN_AFTER=loadstring(game:HttpGet("https://star-scripts.com/api/run/N4z6JWJb7izP92Bhb3KbFXQX6GroZKQB"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Freeze/refs/heads/main/Freeze"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThunderModz/Mm2AutofarmEtc/refs/heads/main/MurderMysteryV2"))()
